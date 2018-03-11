@@ -12,3 +12,7 @@ Before You Submit an Issue
 * For tracking and credit purposes, **each request for correction needs to be in it's own issue. If an issue contains 2 or more issues, we'll close it with a request for breaking up into more atomic issues.**
 
 **Editorial Note:** In order to make issues more readily searchable, we will alter titles and descriptions of issues as needed.
+
+| English  | Spanish |
+|--------------|-----------------|
+|![English Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/253/7661520606370.original.jpg?1520606370)|![Spanish Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/260/8631520606641.original.jpg?1520606641)|
