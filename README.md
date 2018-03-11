@@ -15,4 +15,4 @@ Before You Submit an Issue
 
 | English  | Spanish |
 |--------------|-----------------|
-|![English Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/253/7661520606370.original.jpg?1520606370)|![Spanish Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/260/8631520606641.original.jpg?1520606641)|
+|[![English Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/253/7661520606370.original.jpg?1520606370)](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages)|[![Spanish Python Packaging Course](https://s3.amazonaws.com/thinkific/courses/course_card_image_000/260/8631520606641.original.jpg?1520606641)](https://courses.twoscoopspress.com/courses/creating-and-distributing-python-packages-es)|
